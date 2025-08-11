@@ -17,6 +17,7 @@ assignees: ''
  ### Criterios de Aceptación  
    
  ```gherkin
+Escenario: [algún escenario]
  Dado [algún contexto]
  Cuando [se realiza cierta acción]
  Entonces [se observa el resultado de la acción]
